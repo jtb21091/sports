@@ -27,3 +27,6 @@ Is there a relationship between team miles traveled and team wins? [2023 stats] 
 
 'Wins = 68.6358 + (17.4315 * ERA) + (0.3634 * H) + (-0.1427 * R) + (0.0237 * HR) + (0.4462 * BB) + (0.0164 * SO) + (-698.9669 * WHIP) + (831.6931 * AVG)'
 ![image](https://github.com/jtb21091/sports/assets/60986161/11e5a33d-aa71-459b-9f1f-a2e0da279d91)
+
+![image](https://github.com/jtb21091/sports/assets/60986161/fdf63611-2966-4620-a41d-50166a9616de)
+
