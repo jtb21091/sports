@@ -1,9 +1,11 @@
 Random sports data
+NFL
 ![image](https://github.com/jtb21091/sports/assets/60986161/aa825719-622c-4988-a392-6213496f6f19)
 ![image](https://github.com/jtb21091/sports/assets/60986161/a093bdb2-11c3-4635-89ba-586866d9c094)
 
 ![image](https://github.com/jtb21091/sports/assets/60986161/b2e7e597-18b1-4e45-a854-92caa5759189)
 
+MLB
 mlbmilestraveledwins
 
 Analyze miles traveled and correlation; if any, on team wins
@@ -28,5 +30,18 @@ Is there a relationship between team miles traveled and team wins? [2023 stats] 
 'Wins = 68.6358 + (17.4315 * ERA) + (0.3634 * H) + (-0.1427 * R) + (0.0237 * HR) + (0.4462 * BB) + (0.0164 * SO) + (-698.9669 * WHIP) + (831.6931 * AVG)'
 ![image](https://github.com/jtb21091/sports/assets/60986161/11e5a33d-aa71-459b-9f1f-a2e0da279d91)
 
+PGA
 ![image](https://github.com/jtb21091/sports/assets/60986161/fdf63611-2966-4620-a41d-50166a9616de)
+Does driving distance and GIR have correlation to money? Yes, both are statistically significant, although they have poor Rsquared values which indicate there are other unaccounted for variables that matter
+
+2023 PGA stats Projected earnings: y = -38219636.50239329 + 88813.22366155143 * driving_distance + 21550358.2135884 * greens_in_regulation
+![image](https://github.com/jtb21091/sports/assets/60986161/e443fcb7-af19-4588-9f5f-039fbc26b54e)
+![image](https://github.com/jtb21091/sports/assets/60986161/38e801e6-ade8-415b-ac47-c85e6e36674a)
+
+
+
+
+
+
+
 
