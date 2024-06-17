@@ -38,7 +38,13 @@ Does driving distance and GIR have correlation to money? Yes, both are statistic
 ![image](https://github.com/jtb21091/sports/assets/60986161/e443fcb7-af19-4588-9f5f-039fbc26b54e)
 ![image](https://github.com/jtb21091/sports/assets/60986161/38e801e6-ade8-415b-ac47-c85e6e36674a)
 
+NHL stats
+![image](https://github.com/jtb21091/sports/assets/60986161/26b41c50-f40a-4a75-ac47-7ec590413b26)
 
+Rookie playoff stats 2023
+
+Correlation of points to any variable (interesting that shots was more correlated to points than goals!)
+![image](https://github.com/jtb21091/sports/assets/60986161/38426243-c512-4375-9139-82f9edd4c0e0)
 
 
 
