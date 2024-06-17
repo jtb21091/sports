@@ -18,6 +18,7 @@ Is there a relationship between team miles traveled and team wins? [2023 stats] 
 ![image](https://github.com/jtb21091/sports/assets/60986161/8b27e7b6-6266-452e-927a-d9e3dde8addc)
 ![image](https://github.com/jtb21091/sports/assets/60986161/53846127-894b-4ad2-8b8d-e42abbf18126)
 
+2023 hitting and pitching correlation to team wins MLB data
 ![image](https://github.com/jtb21091/sports/assets/60986161/70222bee-ee99-44c8-bb18-0678c5d94bfb)
 
 2023 pitching data ~ correlation to team wins (enter in stat to predict team wins ~ may need to adjust for whole season stat)
