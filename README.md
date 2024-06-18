@@ -46,6 +46,10 @@ Rookie playoff stats 2023
 Correlation of points to any variable (interesting that shots was more correlated to points than goals!)
 ![image](https://github.com/jtb21091/sports/assets/60986161/38426243-c512-4375-9139-82f9edd4c0e0)
 
+Nascar
+![image](https://github.com/jtb21091/sports/assets/60986161/5d0f116e-5a11-4741-af58-6ca6ff4d53fb)
+6.18.2024
+![image](https://github.com/jtb21091/sports/assets/60986161/862f4f96-f9ae-4edd-bfbc-bb7afccbb701)
 
 
 
